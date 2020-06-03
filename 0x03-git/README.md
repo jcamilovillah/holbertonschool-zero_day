@@ -1,1 +1,1 @@
-Git is a nice tool!
+i <3 git
